@@ -1,1 +1,26 @@
+.Heading{
+    background-color: 
+    #d53e65;
+    border: solid #d53e65;
+    height: 80px;
+    
+}
+ h1{
+    font-size: 50px;
+    font-family: 'Rubik Burned', system-ui;
+    color: pink;
+ }
 
+.Heading img{
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+
+.header div{
+    background-color: white;
+    display: inline;
+    float: right;
+    margin-right: 10px;
+    border-radius: 7%;
+}
