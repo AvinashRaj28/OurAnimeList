@@ -24,3 +24,9 @@
     margin-right: 10px;
     border-radius: 7%;
 }
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 200px 200px 200px;
+    gap: 20px;
+  }
