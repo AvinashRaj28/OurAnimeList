@@ -1,0 +1,149 @@
+/* action2 */
+
+.img{
+    float: left;
+    padding-right: 10px;
+    
+}
+.text{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+
+}
+.text1{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.text2{
+    font-size:large ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.Trailor2{
+    float: right;
+}
+
+/* action */
+
+
+.imgs{
+    float: left;
+    padding-right:20px;
+}
+.apk{
+    float: left;
+    font-size:large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.apk1{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.apk2{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.Trailor{
+    float: right;
+}
+
+
+
+/* action3 */
+.image{
+    float: left;
+    padding-right: 40px;
+}
+.d{
+    float: left;
+    font-size:large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.a{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.b{
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.c{
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Trailor3{
+    float: right;
+}
+/* action1*/
+.i{
+    float: left;
+    padding-right: 40px;
+}
+.j{
+    float: left;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.k{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.l{
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Trailor1{
+    float: right;
+}
+/* action4 */
+.i2{
+    float: left;
+    padding-right: 40px;
+}
+.o{
+    float: left;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    
+}
+.p{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    gap: 10px;
+    clear: left;
+    
+}
+.Trailor4{
+    float: right;
+    margin-left: 15px
+}
+
+
+
+
+
