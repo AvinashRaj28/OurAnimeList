@@ -1,3 +1,4 @@
+
 .Heading{
     background-color: 
     #d53e65;
@@ -24,9 +25,33 @@
     margin-right: 10px;
     border-radius: 7%;
 }
-.grid-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 200px 200px 200px;
-    gap: 20px;
-  }
+
+
+.flexbox{
+    display: flex;
+    gap: 11.5px;
+    width: 200px;
+}
+
+h2{
+    background-color: pink;
+    height: 50px;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 1px;
+}
+h3{
+    background-color: skyblue;
+    margin-top: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 1px;
+}
+.card{
+    transition: all 0.3s;
+}
+.card:hover{
+    scale: 1.1;
+}
