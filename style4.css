@@ -1,0 +1,25 @@
+/* Romance */
+.img{
+    float: left;
+    padding-right: 20px;
+    
+}
+.points{
+    font-size:large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+
+}
+.source{
+    clear: left;
+    padding-top: 10px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.vedio{
+    float: right;
+}
+.smry{
+    font-size:large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
