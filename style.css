@@ -31,6 +31,7 @@
     display: flex;
     gap: 11.5px;
     width: 200px;
+    flex-wrap: wrap;
 }
 
 h2{
