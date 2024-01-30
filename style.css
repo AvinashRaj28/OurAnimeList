@@ -55,3 +55,35 @@ h3{
 .card:hover{
     scale: 1.1;
 }
+@media (max-width:680px){
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        width: 360px;
+    }
+    .Heading{
+        height: 50px;
+        width:360px;
+    }
+    .Heading img{
+        height: 50px;
+        width: 60px;
+        float: left;
+    }
+    .flexbox{
+        display: flex;
+        flex-direction: column;
+        gap: 1px;
+    }
+    .header div{
+        font-size: 5px;
+    }
+    .card{
+        width: 360px;
+        height: 100%;
+    }
+    img{
+        width: 360px;
+    }
+}
